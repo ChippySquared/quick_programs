@@ -1,4 +1,4 @@
-Problem: we work for an e-commerce company that ships products in boxes of
+**Problem:** we work for an e-commerce company that ships products in boxes of
 different sizes. The available box sizes (in cubic inches) are stored in
 a sorted list, and we need to pick the smallest box that can fit a given
 product's volume.
