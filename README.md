@@ -17,7 +17,7 @@ This program assists in determining the most suitable box size for shipping prod
 
 This utility facilitates the automated sending of emails. It can be configured to dispatch emails to specified recipients, which is useful for tasks such as notifications, newsletters, or alerts.
 
-### Student Grade Lookup
+### grade_lookup
 
 This program makes use of hash tables to store and retrieve student grades efficiently. 
 
