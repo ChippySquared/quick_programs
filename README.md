@@ -11,7 +11,7 @@ A selection of handy python programs that I specifically wrote to add to my port
 
 ### ecommerce_box_finder
 
-This program assists in determining the most suitable box size for shipping products in an e-commerce setting. It evaluates the dimensions of items and suggests the optimal box to ensure efficient packaging and shipping.
+This program assists in determining the most suitable box size for shipping products in an e-commerce setting. It evaluates the dimensions of items and suggests the optimal box to ensure efficient packaging and shipping. It uses a binary search algorithm **{O(log n)}.**
 
 ### email_sender
 
@@ -20,6 +20,10 @@ This utility facilitates the automated sending of emails. It can be configured t
 ### password_generator
 
 This tool generates secure, random passwords based on specified criteria. Users can define parameters such as length and character types to create strong passwords for enhanced security.
+
+### shoe_search
+
+This program helps find the best-fitting shoe size from an unsorted list of available sizes. It uses a linear search algorithm **{O(n)}** to locate the first shoe size that fits or is larger than the specified foot size.
 
 ## Getting Started
 To get started with these programs:
